@@ -6,6 +6,10 @@ I’m a Data Engineer with 3+ years of experience designing Azure-integrated dat
 
 I focus on scalable data ingestion architectures, backend data modeling, and production-ready automation within cloud environments.
 
+<a href="https://www.linkedin.com/in/namanagarwal121/" target="_blank">
+  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+</a>
+
 #### Languages and Tools
 <p align="left">
 
