@@ -22,5 +22,6 @@ I focus on scalable data ingestion architectures, backend data modeling, and pro
 
 <img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />
 <img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
 </p>
