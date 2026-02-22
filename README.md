@@ -9,6 +9,9 @@ I focus on scalable data ingestion architectures, backend data modeling, and pro
 <a href="https://www.linkedin.com/in/namanagarwal121/" target="_blank">
   <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
+<a href="mailto:namanagarwal363@gmail.com">
+  <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+</a>
 
 #### Languages and Tools
 <p align="left">
