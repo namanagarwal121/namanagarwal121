@@ -1,19 +1,85 @@
-![Napa-Data-Engineering-Image](https://github.com/user-attachments/assets/c7da23b7-e6f1-4ac1-9638-01341c0fb210)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Naman%20Agarwal&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Data%20Engineer%20%C2%B7%20Azure%20%C2%B7%20Databricks%20%C2%B7%20Microsoft%20Fabric&descAlignY=58&descSize=18" alt="Naman Agarwal: Data Engineer" />
+</p>
 
-#### Hi, I’m Naman Agarwal.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+ETL%2FELT+pipelines+on+Azure;Medallion+lakehouses+on+Databricks;Incremental+%2B+CDC+loads+into+star+schemas;Streaming+with+Event+Hubs+and+Kafka" alt="Typing tagline" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/namanagarwal121/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:namanagarwal363@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=namanagarwal121&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 ---
+
+### 👋 About me
+
+<img align="right" width="380" src="https://github.com/user-attachments/assets/c7da23b7-e6f1-4ac1-9638-01341c0fb210" alt="Data engineering" />
+
 I’m a Data Engineer with 3.5+ years of experience designing Azure-integrated data platforms and SQL-driven processing systems. My work involves building ETL/ELT pipelines, implementing transformation logic, and orchestrating cloud-based workflows using Azure services.
 
 I focus on scalable data ingestion architectures, backend data modeling, and production-ready automation within cloud environments.
 
-<a href="https://www.linkedin.com/in/namanagarwal121/" target="_blank">
-  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="mailto:namanagarwal363@gmail.com">
-  <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
-</a>
+**What you'll find in my repos**
+- 🏗️ Medallion lakehouses (bronze → silver → gold) on Databricks and Microsoft Fabric
+- 🔁 Incremental and CDC loads, SCD Type 1 and Type 2 dimensions, star schemas
+- ⚡ Streaming with Azure Event Hubs, Kafka and Spark Structured Streaming
+- 🧩 Metadata-driven Azure Data Factory pipelines with Git-based CI/CD
 
-#### Featured projects
+<br clear="right" />
+
+---
+
+### 🧰 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,azure,kafka,mysql,linux,git,github,react,ts,vite&perline=10" alt="Python, Azure, Kafka, MySQL, Linux, Git, GitHub, React, TypeScript, Vite" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=flat-square" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat-square" alt="ADLS Gen2" />
+  <img src="https://img.shields.io/badge/Event%20Hubs-0078D4?style=flat-square" alt="Azure Event Hubs" />
+  <img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square" alt="Azure Synapse" />
+  <br />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Mage-6B4FBB?style=flat-square" alt="Mage" />
+</p>
+
+---
+
+### 🚀 Featured projects
+
+<p align="center">
+  <a href="https://github.com/namanagarwal121/employee-hub-fabric-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=namanagarwal121&repo=employee-hub-fabric-app&theme=tokyonight&hide_border=true" alt="employee-hub-fabric-app" /></a>
+  <a href="https://github.com/namanagarwal121/employee-hub-data-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=namanagarwal121&repo=employee-hub-data-platform&theme=tokyonight&hide_border=true" alt="employee-hub-data-platform" /></a>
+  <a href="https://github.com/namanagarwal121/restaurant-lakehouse-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=namanagarwal121&repo=restaurant-lakehouse-pipeline&theme=tokyonight&hide_border=true" alt="restaurant-lakehouse-pipeline" /></a>
+  <a href="https://github.com/namanagarwal121/databricks-cdc-star-schema-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=namanagarwal121&repo=databricks-cdc-star-schema-engine&theme=tokyonight&hide_border=true" alt="databricks-cdc-star-schema-engine" /></a>
+  <a href="https://github.com/namanagarwal121/wikimedia-eventhub-databricks-pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=namanagarwal121&repo=wikimedia-eventhub-databricks-pipeline&theme=tokyonight&hide_border=true" alt="wikimedia-eventhub-databricks-pipeline" /></a>
+  <a href="https://github.com/namanagarwal121/uber_AzureEventHub_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=namanagarwal121&repo=uber_AzureEventHub_project&theme=tokyonight&hide_border=true" alt="uber_AzureEventHub_project" /></a>
+</p>
+
+<details>
+<summary><b>🗺️ Architecture: Employee Hub data platform on Microsoft Fabric</b></summary>
+<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/namanagarwal121/employee-hub-fabric-app/main/data-platform/docs/architecture.png" alt="Employee Hub data platform architecture" />
+</p>
+</details>
+
+<details>
+<summary><b>📂 All projects</b></summary>
+<br />
 
 **Microsoft Fabric**
 - [employee-hub-fabric-app](https://github.com/namanagarwal121/employee-hub-fabric-app): An employee management app on Fabric Apps (React, Vite), with server-enforced roles, an audit log and CSV import/export.
@@ -41,18 +107,17 @@ I focus on scalable data ingestion architectures, backend data modeling, and pro
 - [Data-analyst-Project-I](https://github.com/namanagarwal121/Data-analyst-Project-I): Exploratory analysis of the US Accidents dataset (2016–2021).
 - [Business-analyst-Project-I](https://github.com/namanagarwal121/Business-analyst-Project-I): A sales pipeline conversion case study using a BANT hypothesis tree.
 
-#### Languages and Tools
-<p align="left">
+</details>
 
-<img width="100" height="100" src="https://github.com/user-attachments/assets/823477ef-6869-49d8-8870-08d4173c1f28" />
-<img width="100" height="100" src="https://github.com/user-attachments/assets/903cb1ac-8997-4af5-a556-1d2f1becc195" />
-<img width="40" height="40" src="https://github.com/user-attachments/assets/211a729b-3113-4ffb-b528-ac6ea2ed612f" />
+---
 
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+### 📊 GitHub stats
 
-<img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />
-<img width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=namanagarwal121&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=namanagarwal121&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="" />
 </p>
